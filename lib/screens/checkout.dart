@@ -1,6 +1,5 @@
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
-import 'package:flutter_riverpod/flutter_riverpod.dart';
 import 'package:shopping_app/provider/cart_provider.dart';
 
 class CheckoutDialog extends StatefulWidget {
